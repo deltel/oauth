@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header, main {
+    padding-left: 10px;
+}
+
+nav {
+    background-color: #ff5959;
+    margin: 0;
+    padding: 10px;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 5px;
+}
+
+nav a, main a {
+    background-color:#fc7474;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+}
+
+main a {
+   background-color: #ff5959;
+}
